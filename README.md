@@ -1,6 +1,6 @@
 # CSE-2202 Repository Index
 
-Welcome to the **CSE-2202** GitHub repository! This repository is a comprehensive resource for students and developers exploring various computer science and engineering topics. Below is an organized index of its contents for ease of navigation.  
+Welcome to the **CSE-2202** GitHub repository! This repository is a comprehensive resource for students of RUET having CSE 2202 course. Below is an organized index of its contents for ease of navigation.  
 
 ---
 
