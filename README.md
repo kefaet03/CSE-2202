@@ -6,7 +6,7 @@ Welcome to the **CSE-2202** GitHub repository! This repository is a comprehensiv
 
 ## Table of Contents
 
-![Repository Banner](./images/banner.png)
+![Repository Banner](./image.png)
 
 ### **Contact**
    - Author: [kefaet03](https://github.com/kefaet03)  
